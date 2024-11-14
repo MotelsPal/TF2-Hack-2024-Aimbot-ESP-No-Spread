@@ -2,7 +2,7 @@
   <h1>TF2 Hack 2024 Aimbot | ESP | No Spread</h1>
 
   [![Downloads](https://img.shields.io/badge/Downloads-10k%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
-  [![Version](https://img.shields.io/badge/Version-1.3-green?style=for-the-badge)](#)
+  [![Version](https://img.shields.io/badge/Version-2.1-green?style=for-the-badge)](#)
   [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
 </div>
 
